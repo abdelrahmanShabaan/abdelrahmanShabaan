@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmanshabaan" alt="abdelrahmanshabaan" /></a> </p>
 
-- 🔭 I’m currently working on **Track Back**
+- 🔭 I’m currently working on **Track Backend**
 
-- 🌱 I’m currently learning **Backend Framework & etc...**
+- 🌱 I’m currently learning **Backend Frameworks & etc...**
 
 - 👯 I’m looking to collaborate on **Backend Project**
 
-- 💬 Ask me about **Laravel , another Framework...**
+- 💬 Ask me about **Laravel , another Frameworks...**
 
 - 📫 How to reach me **boodyelmasry6@gmail.com**
 
@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/groups/894914697622527/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="groups/894914697622527/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdelrahman-shaaban-1362231a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-shaaban-1362231a9" height="30" width="40" /></a>
 <a href="https://fb.com/putcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="putcode" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/putcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="putcodes" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@putcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@putcodes" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/boodyelmasry6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="boodyelmasry6" height="30" width="40" /></a>
 </p>
 
