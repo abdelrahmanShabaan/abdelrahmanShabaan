@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Backend Developer</h1>
-<img align="right" alt="Backend Developer" width="400" src="https://t4.ftcdn.net/jpg/03/15/02/27/360_F_315022751_vg1XCkEIsspb0LIP8bCwUKVhINP69wOv.jpg">
 
 - 🔭 I’m currently working on **Track Backend**
 
@@ -13,6 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/abdelrahman-shaaban-1362231a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-shaaban-1362231a9" height="30" width="40" /></a>
 <a href="https://fb.com/putcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="putcode" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/boodyelmasry6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="boodyelmasry6" height="30" width="40" /></a>
 </p>
