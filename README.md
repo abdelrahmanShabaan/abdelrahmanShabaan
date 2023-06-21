@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Backend Developer</h1>
+<h1 align="center">Hi 👋, I'm Software Engineer </h1>
 
-- 🔭 I’m currently working on **Track Backend**
+- 🔭 I’m currently working on **Track software engineering**
 
-- 🌱 I’m currently learning **Backend Frameworks & etc...**
+- 🌱 I’m currently learning **Data-structure & Algorithms & Problem Solving etc...**
 
-- 👯 I’m looking to collaborate on **Backend Projects**
+- 👯 I’m looking to collaborate on **Software Projects**
 
-- 💬 Ask me about **Laravel , another Frameworks...**
+- 💬 Ask me about **Software Architecture & etc...**
 
 - 📫 How to reach me **abdelrahmanshaaban998@gmail.com**
 
